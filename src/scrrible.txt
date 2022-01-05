@@ -1,0 +1,6 @@
+https://accounts.spotify.com/en/authorize?
+client_id=27ca11eda12f4e3e9c4bf6987160e5bf&redirect_uri=http:%2F%2Flocalhost:3000%2F&scope=user-read-currently-playing%20user-read-recently-played%20user-read-playback-state%20user-top-read%20user-modify-playback-state&response_type=token&show_dialog=true
+
+-----------------------------------
+
+http://localhost:3000/#access_token=BQCoBdkKmKAbUXuhixW2KrzpSrRFkw-E0deYOatyDAKzRa8q_CL2Gt487HQYS9_O1-D0GFmbQ01qNj2a6g1461XmPs3OSDrOjm5KwhFcbFZf9RvUuF5FB1DKcIOcGbA5_F6JQtXLob-Bv_DYOSNTe1wEBt_oQj6pe1e8B9cKxmlw7Raj3WdQ&token_type=Bearer&expires_in=3600
